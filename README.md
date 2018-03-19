@@ -17,10 +17,6 @@ pdo
 redis
 mcrypt
 
-brew install php56-redis --build-from-source
-brew install php56-mcrypt --build-from-source
-brew upgrade php56-igbinary
-
 
 ### 站点根目录
 /web/
